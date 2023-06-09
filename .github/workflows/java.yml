@@ -43,4 +43,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/gaz492/yolksPlus:java_${{ matrix.tag }}
+            ghcr.io/gaz492/yolksplus:java_${{ matrix.tag }}
